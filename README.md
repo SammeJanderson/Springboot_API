@@ -1,5 +1,5 @@
 # Springboot_API
-Uma API simples com dependency injection utilizando SpringBoot.
+Uma API simples com suporte a dependency injection.
 
 
 ## Tecnologias
