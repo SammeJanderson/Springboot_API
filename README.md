@@ -1,5 +1,13 @@
 # Springboot_API
-Um API simples utilizando SpringBoot
+Uma API simples com dependency injection utilizando SpringBoot.
+
+
+## Tecnologias
+
+* Java 11
+* SpringBoot 2.3.4
+  - Spring Web.
+* Maven
 
 
 ## Estrutura.
