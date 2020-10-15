@@ -1,6 +1,10 @@
-package com.example.demo.model;
+//Implementação usando "machine server"
+
+
+package com.example.demo.doa;
 
 import com.example.demo.doa.PersonDoa;
+import com.example.demo.model.Person;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
